@@ -1,6 +1,6 @@
 # LSTM-tf-2.x-for-HAR-with-Accelerometer
 This is probably the 1st 'tf2.x-version' LSTM (available on GitHub) implemented for Accelerometer data.
-A classic tf1.x LSTM can be found [here](https://github.com/ieeeWang/LSTM-Human-Activity-Recognition).
+A classic 'tf1.x-version' LSTM can be found [here](https://github.com/ieeeWang/LSTM-Human-Activity-Recognition). You can spend the whole weekend to figure out how the network is built by using tf1.x, or spend several miniuts on my tf2.x code to understand everthing.
 
 This project needs two-step procedures:
 
