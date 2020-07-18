@@ -8,7 +8,6 @@ This project needs two-step procedures:
 (step 2) to use the saved 'best-trained-model' to test a target dataset (without labeling).
 
 The notebook 'LSTM_UCI2012Acc_TransferLearning.ipynb' covers the step 1.
-
 The notebook 'imec_Acc_case_application.ipynb' covers the step 2.
 
 Before you run the notebook files, Notice:
