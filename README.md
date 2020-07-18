@@ -15,6 +15,7 @@ Before you run the notebook files, Notice:
 
 (1) the 16 excel files (for target dataset) should be put under the folder 'files', they are too large to send by email.
 (2) the UCI dataset (source dataset) will be send by using 'Wetransfer' through another email. After download it, put it under the project folder 'imec_case_Acc_LSTM_demo'.
+I will add another py file for preparing this data pipleline soon.
 
 Result on a open dataset (UCI2012Acc):
 <p align="center">
