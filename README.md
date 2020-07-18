@@ -17,7 +17,7 @@ Before you run the notebook files, Notice:
 (2) the UCI dataset (source dataset) will be send by using 'Wetransfer' through another email. After download it, put it under the project folder 'imec_case_Acc_LSTM_demo'.
 I will add another py file for preparing this data pipleline soon.
 
-Result on a open dataset (UCI2012Acc):
+Validation result on a open dataset (UCI2012Acc):
 <p align="center">
     <img width="200%" src="results/conf_matrix_9Acc_50Hz_92.6.png" style="max-width:200%;"></a>
 </p>
