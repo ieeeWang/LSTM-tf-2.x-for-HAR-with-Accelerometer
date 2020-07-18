@@ -1,0 +1,8 @@
+This project needs two-step procedures: (step 1) to train a 'best-trained-model' for transfer learning on the imec case dataset. (step 2) to use the saved 'best-trained-model' to test imec case data.
+
+This notebook 'LSTM_UCI2012Acc_TransferLearning.ipynb' covers the step 1.
+This notebook 'imec_Acc_case_application.ipynb' covers the step 2.
+
+Before you run the notebook files, Notice:
+(1) the 16 excel files should be put under the folder 'files', they are too large to send by email.
+(2) the UCI dataset will be send by using 'Wetransfer' through another email. After download it, put it under the project folder 'imec_case_Acc_LSTM_demo'.
