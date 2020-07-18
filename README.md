@@ -5,11 +5,11 @@ A classic 'tf1.x-version' LSTM can be found [here](https://github.com/ieeeWang/L
 This project needs two-step procedures:
 
 (step 1) to train a 'best-trained-model' for transfer learning on a target dataset (with labeling). 
+IPython Notebook available [here](./LSTM_UCI2012Acc_TransferLearning.ipynb).
 
 (step 2) to use the saved 'best-trained-model' to test a target dataset (without labeling).
+IPython Notebook available [here](./imec_Acc_case_application.ipynb).
 
-The notebook 'LSTM_UCI2012Acc_TransferLearning.ipynb' covers the step 1.
-The notebook 'imec_Acc_case_application.ipynb' covers the step 2.
 
 Before you run the notebook files, Notice:
 
