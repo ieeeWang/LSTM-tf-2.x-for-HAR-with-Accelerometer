@@ -15,7 +15,8 @@ Before you run the notebook files, Notice:
 
 (1) the 16 excel files (for target dataset) should be put under the folder 'files', they are too large to send by email.
 (2) the UCI dataset (source dataset) will be send by using 'Wetransfer' through another email. After download it, put it under the project folder 'imec_case_Acc_LSTM_demo'.
-I will add another py file for preparing this data pipleline soon.
+Alternatively, you can download it through this [link],(https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones) then unzip download file under the empty foler 'UCI HAR Dataset'. Then you run 'read_save_data.py' to save the prepared dataset 'Acc_6class_UCI.pkl'.
+
 
 Validation result on a open dataset (UCI2012Acc):
 <p align="center">
