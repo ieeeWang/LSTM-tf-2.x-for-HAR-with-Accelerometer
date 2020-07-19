@@ -1,6 +1,6 @@
 # LSTM-tf-2.x-for-HAR-with-Accelerometer
 This is probably the 1st 'tf2.x-version' LSTM (available on GitHub) implemented for Accelerometer data.
-A classic 'tf1.x-version' LSTM can be found [here](https://github.com/ieeeWang/LSTM-Human-Activity-Recognition). You can spend the whole weekend to figure out how the network is built by using tf1.x, or spend several miniuts on my tf2.x code to understand everthing.
+A classic 'tf1.x-version' LSTM can be found [here](https://github.com/ieeeWang/LSTM-Human-Activity-Recognition). You can spend the whole weekend to figure out how the network is built by using tf1.x, or spend several miniuts on this tf2.x code to effortlessly understand everthing.
 
 This project needs two-step procedures:
 
@@ -15,7 +15,7 @@ Before you run the notebook files, Notice:
 
 (1) the 16 excel files (for target dataset) should be put under the folder 'files', they are too large to send by email.
 (2) the UCI dataset (source dataset) will be send by using 'Wetransfer' through another email. After download it, put it under the project folder 'imec_case_Acc_LSTM_demo'.
-Alternatively, you can download the UCI dataset through this [link](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones), then unzip download file under the empty foler 'UCI HAR Dataset'. Then you run 'read_save_data.py' to save the prepared dataset 'Acc_6class_UCI.pkl'.
+Alternatively, you can download the UCI dataset through this [link](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones), then unzip download file under the empty foler 'UCI HAR Dataset'. Then run 'read_save_data.py' to obtain the prepared dataset 'Acc_6class_UCI.pkl'.
 
 
 Validation result on a open dataset (UCI2012Acc):
